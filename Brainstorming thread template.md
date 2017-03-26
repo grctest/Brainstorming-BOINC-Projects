@@ -2,7 +2,7 @@
 [![BOINC and Gridcoin](https://i.imgur.com/94ptWU0.png "BOINC and Gridcoin")](https://www.gridcoin.us "BOINC and Gridcoin")
 </center>
 
-<img src="https://i.imgur.com/KVsiOCn.png" alt="Brainstorming"/>
+<img src="https://i.imgur.com/RKmk55f.png" alt="Brainstorming"/>
 
 # What is BOINC?
 [BOINC](https://boinc.berkeley.edu/) is an [open-source](https://github.com/BOINC/boinc/) volunteer oriented distributed computing grid. It's free, and harnesses the unused clock cycles from processors and graphics cards to attempt to cure cancer/aids/ebola/malaria, map the milkyway, fold proteins, search for extraterrestrial life, etc.
